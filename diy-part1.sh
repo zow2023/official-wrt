@@ -10,6 +10,8 @@
 # See /LICENSE for more information.
 #
 
+git checkout ebb3faf31f7c34d71e8ffbf3e8d94bf92086188e
+
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
