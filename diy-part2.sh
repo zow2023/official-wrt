@@ -21,11 +21,14 @@
 git clone https://github.com/CrazyPegasus/luci-app-accesscontrol-plus package/luci-app-accesscontrol-plus
 git clone https://github.com/sirpdboy/luci-app-parentcontrol package/luci-app-parentcontrol
 git clone https://github.com/DevOpenWRT-Router/luci-app-mqos package/luci-app-mqos
-git clone https://github.com/sbwml/autocore-arm.git -b openwrt-22.03 package/sbwml/autocore-arm
+git clone https://github.com/sbwml/autocore-arm.git package/sbwml/autocore-arm
 git clone https://github.com/gSpotx2f/luci-app-cpu-status.git package/gSpotx2f/luci-app-cpu-status
 git clone https://github.com/gSpotx2f/luci-app-cpu-perf.git package/gSpotx2f/luci-app-cpu-perf
 git clone https://github.com/gSpotx2f/luci-app-interfaces-statistics.git package/gSpotx2f/luci-app-interfaces-statistics
 git clone https://github.com/gSpotx2f/luci-app-temp-status.git package/gSpotx2f/luci-app-temp-status
+git clone https://github.com/lynxnexy/luci-app-tinyfilemanager.git package/lynxnexy/luci-app-tinyfilemanager
+git clone https://github.com/DevOpenWRT-Router/luci-app-tn-netports.git package/PureFusionWRT/luci-app-tn-netports
+
 
 
 #rm -rf feeds/packages/net/xray-core
