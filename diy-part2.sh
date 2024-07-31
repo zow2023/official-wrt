@@ -30,7 +30,6 @@ git clone https://github.com/lynxnexy/luci-app-tinyfilemanager.git package/lynxn
 git clone https://github.com/DevOpenWRT-Router/luci-app-tn-netports.git package/PureFusionWRT/luci-app-tn-netports
 
 
-
 #rm -rf feeds/packages/net/xray-core
 #rm -rf feeds/packages/net/chinadns-ng
 #rm -rf feeds/luci/applications/luci-app-passwall
