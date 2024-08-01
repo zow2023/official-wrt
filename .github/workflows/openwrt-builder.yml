@@ -17,8 +17,8 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/zow2023/openwrt
-  REPO_BRANCH: v22.03.6
+  REPO_URL: https://github.com/openwrt/openwrt
+  REPO_BRANCH: v23.05.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 121.config
   DIY_P1_SH: diy-part1.sh
