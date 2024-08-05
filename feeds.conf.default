@@ -16,5 +16,5 @@ src-git routing https://git.openwrt.org/feed/routing.git^a82e34d5e402ec77fd5facc
 src-git telephony https://git.openwrt.org/feed/telephony.git^98c8a5aa4624312ed758e2e2b6d4039050a1649d
 
 #src-git kiddin9 https://github.com/kiddin9/openwrt-packages
-#src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/zow2023/small
