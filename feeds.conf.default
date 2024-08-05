@@ -3,6 +3,7 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/zow2023/small
 
 
+
 #src-git-full packages https://git.openwrt.org/feed/packages.git^e34369a41b522a49dec9fb1d81b4ee6b32b731d8
 #src-git-full luci https://git.openwrt.org/project/luci.git^74dd23bdb1c2ba00c68e3abf4d00233bb4f939cd
 #src-git-full routing https://git.openwrt.org/feed/routing.git^777c115b0a6336d6582c5992d25b631b6d6d21fd
@@ -13,7 +14,8 @@ src-git small https://github.com/zow2023/small
 #src-git-full routing https://git.openwrt.org/feed/routing.git^1cc7676b9f32acc30ec47f15fcb70380d5d6ef01
 #src-git-full telephony https://git.openwrt.org/feed/telephony.git^36d9f2f962bd0aba2eef674eb265819609ea99ed
 
-src-git packages https://git.openwrt.org/feed/packages.git^063b2393cbc3e5aab9d2b40b2911cab1c3967c59
-src-git luci https://git.openwrt.org/project/luci.git^b07cf9dcfc37e021e5619a41c847e63afbd5d34a
-src-git routing https://git.openwrt.org/feed/routing.git^648753932d5a7deff7f2bdb33c000018a709ad84
-src-git telephony https://git.openwrt.org/feed/telephony.git^86af194d03592121f5321474ec9918dd109d3057
+#23054
+src-git packages https://git.openwrt.org/feed/packages.git^89955ee711d92e6fb6db7dde9d9d7eb06841acdb
+src-git luci https://git.openwrt.org/project/luci.git^85dec609ab12eee92601d492e4d472b01d71f7ae
+src-git routing https://git.openwrt.org/feed/routing.git^a82e34d5e402ec77fd5facc1349352cacda2d0f8
+src-git telephony https://git.openwrt.org/feed/telephony.git^98c8a5aa4624312ed758e2e2b6d4039050a1649d
