@@ -15,10 +15,10 @@
 #rm -rf feeds/luci/applications/luci-app-smartdns
 #rm -rf feeds/packages/net/smartdns
 
-#git clone https://github.com/pymumu/openwrt-smartdns feeds/packages/net/smartdns
-#feeds/luci/applications/luci-app-smartdns/
+
+
 #git clone https://github.com/pymumu/luci-app-smartdns.git -b lede feeds/luci/applications/luci-app-smartdns/
-git clone https://github.com/sbwml/OpenAppFilter package/OpenAppFilter
+#git clone https://github.com/sbwml/OpenAppFilter package/OpenAppFilter
 
 git clone https://github.com/sirpdboy/luci-app-wizard package/luci-app-wizard
 git clone https://github.com/DevOpenWRT-Router/luci-app-mqos package/luci-app-mqos
