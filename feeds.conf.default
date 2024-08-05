@@ -14,7 +14,7 @@ src-git small https://github.com/zow2023/small
 #src-git-full routing https://git.openwrt.org/feed/routing.git^1cc7676b9f32acc30ec47f15fcb70380d5d6ef01
 #src-git-full telephony https://git.openwrt.org/feed/telephony.git^36d9f2f962bd0aba2eef674eb265819609ea99ed
 
-#23054
+
 src-git packages https://git.openwrt.org/feed/packages.git^89955ee711d92e6fb6db7dde9d9d7eb06841acdb
 src-git luci https://git.openwrt.org/project/luci.git^85dec609ab12eee92601d492e4d472b01d71f7ae
 src-git routing https://git.openwrt.org/feed/routing.git^a82e34d5e402ec77fd5facc1349352cacda2d0f8
