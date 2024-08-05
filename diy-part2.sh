@@ -23,7 +23,7 @@ git clone https://github.com/sbwml/OpenAppFilter package/OpenAppFilter
 git clone https://github.com/sirpdboy/luci-app-wizard package/luci-app-wizard
 git clone https://github.com/DevOpenWRT-Router/luci-app-mqos package/luci-app-mqos
 
-git clone https://github.com/sirpdboy/sirpdboy-package package/sirpdboy-package
+#git clone https://github.com/sirpdboy/sirpdboy-package package/sirpdboy-package
 
 git clone https://github.com/CrazyPegasus/luci-app-accesscontrol-plus package/luci-app-accesscontrol-plus
 git clone https://github.com/sirpdboy/luci-app-parentcontrol package/luci-app-parentcontrol
