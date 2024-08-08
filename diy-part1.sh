@@ -10,6 +10,11 @@
 # See /LICENSE for more information.
 #
 
+bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"
+wget https://apt.llvm.org/llvm.sh
+chmod +x llvm.sh
+sudo ./llvm.sh 13
+
 #git checkout ebb3faf31f7c34d71e8ffbf3e8d94bf92086188e
 
 # Uncomment a feed source
